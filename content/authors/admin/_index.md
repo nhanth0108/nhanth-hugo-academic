@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tran Hoai Nhan
 
 # Is this the primary user of the site?
 superuser: true
