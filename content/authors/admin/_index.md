@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tran Hoai Nhan is a student of Computer Science. His research interests include distributed IOT, quantum computing and computer architecture. He leads the Data Analysis Web-design group, which develops AI and computing models, systems of Internet of Things, and quantum computer.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
