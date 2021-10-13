@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: my_font_set
 font_size: L
 
 # SEO
@@ -156,3 +156,4 @@ cms:
 icon:
   pack:
     ai: true
+plugins_css = ["custom"]
