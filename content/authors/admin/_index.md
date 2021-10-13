@@ -28,12 +28,12 @@ education:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: HND (Higher National Diploma) in Computing
+    institution: BTEC FPT International College
+    year: 2021 - present
   - course: BSc in Physics and Engineering Physics (no degree)
     institution: Vietnam National University Ho Chi Minh City - University of Science
-    year: 2019-2021 
+    year: 2019 - 2021 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
