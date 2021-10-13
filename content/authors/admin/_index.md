@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Tran Hoai Nhan is a student of Computer Science and Physics. His research interests include distributed IOT, quantum computing and computer architecture. He leads the Data Analysis Web-design group, which develops AI and computing models, systems of Internet of Things, and quantum computer.
+Tran Hoai Nhan is a student of Computer Science and Physics. His research interests include distributed IOT, quantum computing and computer architecture. He leads the Data Analysis Web-design group, which develops AI and computing model, systems of Internet of Things, and quantum computer.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
